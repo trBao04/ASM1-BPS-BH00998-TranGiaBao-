@@ -1,0 +1,11 @@
+CategoryID,CategoryName,Description,CategoryManager,LaunchDate,ActiveStatus,NumberOfProducts,PopularityIndex
+1,Mobile Phones,Smartphones and mobile devices,Angela Green,11/1/2023,Active,220,88
+2,Tablets,Tablets and e-readers,Kevin Harris,11/20/2023,Active,140,80
+3,Wearables,Smartwatches and fitness trackers,Nancy Lee,12/5/2023,Active,90,74
+4,Gaming,Gaming consoles and accessories,Brian Adams,12/18/2023,Active,130,83
+5,Cameras,Digital cameras and camcorders,Susan Martinez,1/10/2024,Active,60,79
+6,Audio,Audio equipment and accessories,Mark Robinson,1/25/2024,Active,170,81
+7,Smart Home,Smart home devices and automation,Jessica Clark,2/5/2024,Active,110,76
+8,TV & Home Theater,Televisions and home theater systems,Gary Lewis,2/20/2024,Active,85,84
+9,Appliances,Home and kitchen appliances,Laura Walker,3/1/2024,Active,95,73
+10,Drones,Drones and aerial photography,Christopher Young,3/15/2024,Active,50,87
